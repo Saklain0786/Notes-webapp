@@ -20,7 +20,7 @@ const Home = () => {
   <meta property="og:image" content="./logo.png" />
   <meta
     property="og:url"
-    content="https://noteswebapp-rust.vercel.app/"
+    content="https://notes-webapp-eta.vercel.app/"
   />
   <meta property="og:site_name" content="Notes Saver" />
 </Helmet>
